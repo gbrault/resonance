@@ -10,3 +10,4 @@ dependencies:
   - resonance
   - scipy >=0.19
   - sympy >=1.1
+  - ipympl >=0.5.7
